@@ -1,0 +1,1 @@
+This is a Java joystick to keyboard mapper which supports sending different keys while pressing different key combos by using profiles. It runs on windows and linux.
